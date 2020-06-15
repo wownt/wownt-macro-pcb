@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 13)
+    (drawings 12)
     (tracks 282)
     (zones 0)
     (modules 29)
@@ -1424,11 +1424,8 @@
     )
   )
 
-  (gr_text "designed by wownt" (at 158.369 100.33 90) (layer F.SilkS)
-    (effects (font (size 2.54 2.54) (thickness 0.635)))
-  )
-  (gr_text PENISPAD (at 148.717 74.803 90) (layer F.SilkS)
-    (effects (font (size 12.7 12.7) (thickness 1.27)))
+  (gr_text PENISPAD (at 149.225 74.93 90) (layer F.SilkS)
+    (effects (font (size 12.7 12.7) (thickness 0.508)))
   )
   (gr_arc (start 176.022001 114.425926) (end 176.149 121.793) (angle -90.97965532) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 119.252999 121.794075) (end 176.149 121.793) (layer Edge.Cuts) (width 0.05))
